@@ -2,7 +2,7 @@
 
 - 🔨 I'm currently working on cloud computing,  monitoring/observability and many others technologies
 - 🎓 I’m currently learning Python, Go, Cloud Computing and  English.
-- ✨ I’m looking to collaborate on Opensource projects.
+- 🐧 I’m looking to collaborate on Opensource projects.
 
 ### Skills 🤓
 <div style="display: inline_block"><br>
