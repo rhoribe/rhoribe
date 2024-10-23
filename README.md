@@ -1,26 +1,25 @@
 # Hi there 👋
 
-- 🔨 I'm currently working on cloud computing,  monitoring/observability and many others technologies
-- 🎓 I’m currently learning Python, Go, Cloud Computing and  English.
-- 🐧 I’m looking to collaborate on Opensource projects.
+- 🔨 I'm currently working on cloud computing, monitoring/observability, and many other technologies.
+- 🎓 I’m currently learning Python, Go, Cloud Computing, and English.
+- 🐧 I’m looking to collaborate on open-source projects.
 
 ### Skills 🤓
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" src="	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">  
-  <img align="center" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=Ansible&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Consul-FFFFFF?style=for-the-badge&logo=consul&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Istio-516BAA?style=for-the-badge&logo=istio&logoColor=white">
-  <img align="center" src="https://img.shields.io/badge/Valt-FFFFFF?style=for-the-badge&logo=vault&logoColor=black">
+  <img align="center" src="https://img.shields.io/badge/Vault-FFFFFF?style=for-the-badge&logo=vault&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
@@ -47,4 +46,4 @@
   <a href ="mailto:rhoribe1908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardohoribe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/rhoribe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-</div>  
+</div> 
